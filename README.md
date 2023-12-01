@@ -6,3 +6,4 @@ In this project, the task was to predict the sex of abalones (categorized as Mal
 
 ## Video
 
+https://www.loom.com/share/9d70c1ff1d724a008df02b35becbf4ae?sid=682e58e3-d1c4-4db9-9883-22ae09b98e06
